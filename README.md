@@ -29,6 +29,7 @@ This simulation framework models an optical network and explores various resourc
 - Multiple resource allocation algorithms: RL, DRL, MARL, k-Shortest Path, Load Balancing
 - Spectrum assignment strategies: First Fit, Random Fit
 - Quantum Key Distribution (QKD) integration
+- 1:1 Path Protection
 - Telemetry collection and Telegraf integration
 - Customizable network topology (default: German Backbone Network)
 - Flexible traffic generation
